@@ -2,7 +2,10 @@ package praktikum;
 
 import java.util.List;
 
-public class Praktikum {
+//git clone git@github.com:evvasyukova29/Diplom_1.git
+
+public class Praktikum
+{
 
     public static void main(String[] args) {
         // Инициализируем базу данных
