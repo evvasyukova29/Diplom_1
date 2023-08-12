@@ -2,7 +2,8 @@ package praktikum;
 
 import java.util.List;
 
-//git clone git@github.com:evvasyukova29/Diplom_1.git
+//
+
 
 public class Praktikum
 {
